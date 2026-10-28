@@ -1,0 +1,9 @@
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.vcf.gz
+*.tbi
+logs/
+__pycache__/
+.DS_Store

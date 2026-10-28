@@ -1,0 +1,7 @@
+# Step 07.
+name: sgame-cnvnator
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - cnvnator=0.4.1

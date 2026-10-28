@@ -1,0 +1,128 @@
+sample	biosample	breeding_system	etc_mutation	replicate
+N.1	SAMN63169574	facultative outcrossing (N2)	none (control)	1
+N.2	SAMN63169575	facultative outcrossing (N2)	none (control)	2
+N.3	SAMN63169576	facultative outcrossing (N2)	none (control)	3
+N.4	SAMN63169577	facultative outcrossing (N2)	none (control)	4
+N.5	SAMN63169578	facultative outcrossing (N2)	none (control)	5
+N.6	SAMN63169579	facultative outcrossing (N2)	none (control)	6
+N.7	SAMN63169580	facultative outcrossing (N2)	none (control)	7
+N.8	SAMN63169581	facultative outcrossing (N2)	none (control)	8
+F.1	SAMN63169582	obligate outcrossing (fog-2)	none (control)	1
+F.2	SAMN63169583	obligate outcrossing (fog-2)	none (control)	2
+F.3	SAMN63169584	obligate outcrossing (fog-2)	none (control)	3
+F.4	SAMN63169585	obligate outcrossing (fog-2)	none (control)	4
+F.5	SAMN63169586	obligate outcrossing (fog-2)	none (control)	5
+F.6	SAMN63169587	obligate outcrossing (fog-2)	none (control)	6
+Nisp.4	SAMN63169588	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	4
+F.8	SAMN63169589	obligate outcrossing (fog-2)	none (control)	8
+Nisp.6	SAMN63169590	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	6
+X.2	SAMN63169591	obligate selfing (xol-1)	none (control)	2
+X.3	SAMN63169592	obligate selfing (xol-1)	none (control)	3
+X.4	SAMN63169593	obligate selfing (xol-1)	none (control)	4
+Fcox.3	SAMN63169594	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	3
+Fcox.4	SAMN63169595	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	4
+X.7	SAMN63169596	obligate selfing (xol-1)	none (control)	7
+X.8	SAMN63169597	obligate selfing (xol-1)	none (control)	8
+Ncox.1	SAMN63169598	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	1
+Ncox.2	SAMN63169599	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	2
+Ncox.3	SAMN63169600	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	3
+Ncox.4	SAMN63169601	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	4
+Ncox.5	SAMN63169602	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	5
+Ncox.6	SAMN63169603	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	6
+Ncox.7	SAMN63169604	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	7
+Ncox.8	SAMN63169605	facultative outcrossing (N2)	cox-1 (mtDNA, complex IV)	8
+Nctb.1	SAMN63169606	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	1
+Nctb.2	SAMN63169607	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	2
+Nctb.3	SAMN63169608	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	3
+Nctb.4	SAMN63169609	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	4
+Nctb.5	SAMN63169610	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	5
+Nctb.6	SAMN63169611	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	6
+Nctb.7	SAMN63169612	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	7
+Nctb.8	SAMN63169613	facultative outcrossing (N2)	ctb-1(qm189) (mtDNA, complex III)	8
+Ngas.1	SAMN63169614	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	1
+Ngas.2	SAMN63169615	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	2
+Ngas.3	SAMN63169616	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	3
+Ngas.4	SAMN63169617	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	4
+Ngas.5	SAMN63169618	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	5
+Ngas.6	SAMN63169619	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	6
+Ngas.7	SAMN63169620	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	7
+Ngas.8	SAMN63169621	facultative outcrossing (N2)	gas-1(fc21) (nuclear, complex I)	8
+Nisp.1	SAMN63169622	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	1
+Nisp.2	SAMN63169623	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	2
+Nisp.3	SAMN63169624	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	3
+Fctb.1	SAMN63169625	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	1
+Fctb.5	SAMN63169626	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	5
+Fctb.2	SAMN63169627	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	2
+Nisp.7	SAMN63169628	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	7
+Nisp.8	SAMN63169629	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	8
+Fcox.1	SAMN63169630	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	1
+Fcox.2	SAMN63169631	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	2
+Fgas.1	SAMN63169632	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	1
+Fctb.7	SAMN63169633	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	7
+Fcox.5	SAMN63169634	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	5
+Fgas.5	SAMN63169635	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	5
+Fcox.7	SAMN63169636	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	7
+Fcox.8	SAMN63169637	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	8
+Xcox.5	SAMN63169638	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	5
+Nisp.5	SAMN63169639	facultative outcrossing (N2)	isp-1(qm150) (nuclear, complex III)	5
+Fctb.3	SAMN63169640	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	3
+Fctb.4	SAMN63169641	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	4
+Fgas.8	SAMN63169642	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	8
+Fctb.6	SAMN63169643	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	6
+F.7	SAMN63169644	obligate outcrossing (fog-2)	none (control)	7
+X.6	SAMN63169645	obligate selfing (xol-1)	none (control)	6
+Fcox.6	SAMN63169646	obligate outcrossing (fog-2)	cox-1 (mtDNA, complex IV)	6
+Fgas.3	SAMN63169647	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	3
+Fgas.4	SAMN63169648	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	4
+X.1	SAMN63169649	obligate selfing (xol-1)	none (control)	1
+Fgas.6	SAMN63169650	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	6
+Fgas.7	SAMN63169651	obligate outcrossing (fog-2)	gas-1(fc21) (nuclear, complex I)	7
+X.5	SAMN63169652	obligate selfing (xol-1)	none (control)	5
+Fisp.1	SAMN63169653	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	1
+Fisp.2	SAMN63169654	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	2
+Fisp.3	SAMN63169655	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	3
+Fisp.4	SAMN63169656	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	4
+Fisp.5	SAMN63169657	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	5
+Fisp.6	SAMN63169658	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	6
+Fisp.7	SAMN63169659	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	7
+Fisp.8	SAMN63169660	obligate outcrossing (fog-2)	isp-1(qm150) (nuclear, complex III)	8
+Xcox.1	SAMN63169661	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	1
+Xcox.2	SAMN63169662	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	2
+Xcox.3	SAMN63169663	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	3
+Xcox.4	SAMN63169664	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	4
+Fctb.8	SAMN63169665	obligate outcrossing (fog-2)	ctb-1(qm189) (mtDNA, complex III)	8
+Xcox.6	SAMN63169666	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	6
+Xcox.7	SAMN63169667	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	7
+Xcox.8	SAMN63169668	obligate selfing (xol-1)	cox-1 (mtDNA, complex IV)	8
+Xctb.1	SAMN63169669	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	1
+Xctb.2	SAMN63169670	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	2
+Xctb.3	SAMN63169671	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	3
+Xctb.4	SAMN63169672	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	4
+Xctb.5	SAMN63169673	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	5
+Xctb.6	SAMN63169674	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	6
+Xctb.7	SAMN63169675	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	7
+Xctb.8	SAMN63169676	obligate selfing (xol-1)	ctb-1(qm189) (mtDNA, complex III)	8
+Xgas.1	SAMN63169677	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	1
+Xgas.2	SAMN63169678	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	2
+Xgas.3	SAMN63169679	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	3
+Xgas.4	SAMN63169680	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	4
+Xgas.5	SAMN63169681	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	5
+Xgas.6	SAMN63169682	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	6
+Xgas.7	SAMN63169683	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	7
+Xgas.8	SAMN63169684	obligate selfing (xol-1)	gas-1(fc21) (nuclear, complex I)	8
+Xisp.1	SAMN63169685	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	1
+Xisp.2	SAMN63169686	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	2
+Xisp.3	SAMN63169687	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	3
+Xisp.4	SAMN63169688	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	4
+Xisp.5	SAMN63169689	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	5
+Xisp.6	SAMN63169690	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	6
+Xisp.7	SAMN63169691	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	7
+Xisp.8	SAMN63169692	obligate selfing (xol-1)	isp-1(qm150) (nuclear, complex III)	8
+Nisp-ctb.1	SAMN63169693	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	1
+Nisp-ctb.2	SAMN63169694	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	2
+Nisp-ctb.3	SAMN63169695	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	3
+Nisp-ctb.4	SAMN63169696	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	4
+Nisp-ctb.5	SAMN63169697	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	5
+Nisp-ctb.6	SAMN63169698	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	6
+Nisp-ctb.7	SAMN63169699	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	7
+Nisp-ctb.8	SAMN63169700	facultative outcrossing (N2)	isp-1(qm150); ctb-1(qm189) (complex III)	8

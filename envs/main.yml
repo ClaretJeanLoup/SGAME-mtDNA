@@ -1,0 +1,17 @@
+# Steps 00 to 06 and 09. Versions as in the Methods; GATK is given there only as v4.
+name: sgame
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - fastqc=0.11.9
+  - trimmomatic=0.39
+  - bwa=0.7.18
+  - samtools=1.20
+  - bcftools=1.20
+  - htslib=1.20
+  - picard=3.1.1
+  - gatk4
+  - snpeff=5.2
+  - python>=3.8
+  - wget

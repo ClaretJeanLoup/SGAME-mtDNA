@@ -1,0 +1,7 @@
+# Step 08. lumpyexpress needs samblaster and sambamba, pulled in by lumpy-sv.
+name: sgame-lumpy
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - lumpy-sv
