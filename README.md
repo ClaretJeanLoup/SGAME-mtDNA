@@ -22,11 +22,11 @@ Four electron transport chain (ETC) mutants of *C. elegans* (*cox-1*, *ctb-1*, *
 | 8. Structural variants, read mapping | [08_Lumpy.sh](scripts/08_Lumpy.sh) | LUMPY (lumpyexpress) | per sample |
 | 9. Annotation | [09_SnpEff.sh](scripts/09_SnpEff.sh) | SnpEff 5.2c | WBcel235 database; MtDNA with the invertebrate mitochondrial code |
 
-The unique variants (step 6) and copy-number variants (steps 7 and 8) were then checked by eye in IGV 2.18.4. Only variants that passed this check were kept in the paper.
+The unique variants (step 6) and copy-number variants (steps 7 and 8) were then checked by eye in IGV. Only variants that passed this check were kept in the paper.
 
 ### How step 6 works
 
-- **Site filters.** MQ, FS and SOR are read from the GATK INFO field. For BCFtools calls, FS and SOR are computed from the forward and reverse read counts (ADF, ADR) summed over individual lines. On MtDNA, where BCFtools makes no genotype call, the MQ ≥ 50 threshold is applied to the reads counts from in step 5.
+- **Site filters.** MQ, FS and SOR are read from the GATK INFO field. For BCFtools calls, FS and SOR are computed from the forward and reverse read counts summed over individual lines. On MtDNA, where bcftools makes no genotype call, the MQ ≥ 50 threshold is applied to the reads counts from in step 5.
 - **Background removal.** A variant carried by more than one line is treated as standing variation of the ancestral strains or a recurrent artefact, and is removed. 
 ## Running
 
